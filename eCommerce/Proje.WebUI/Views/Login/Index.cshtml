@@ -1,0 +1,44 @@
+﻿@{
+    Layout = "/Views/Shared/_UserLayout.cshtml";
+}
+@using (Html.BeginForm("Login", "Login", FormMethod.Post, new { @class = "login100-form validate-form" }))
+{@Html.AntiForgeryToken()
+    <span class="login100-form-title p-b-26">
+        Hoş Geldiniz 
+    </span>
+    <span class="login100-form-title p-b-48" style="color:lightgreen;font-size:large">
+        @{ string success = TempData["Success"] as string;} @success
+    </span>
+
+    <div class="wrap-input100 validate-input" data-validate="Valid email is: a@b.c">
+        <input class="input100" type="text" name="email" required>
+        <span class="focus-input100" data-placeholder="Email"></span>
+    </div>
+
+    <div class="wrap-input100 validate-input" data-validate="Enter password">
+        <span class="btn-show-pass">
+            <i class="zmdi zmdi-eye"></i>
+        </span>
+        <input class="input100" type="password" name="password" required>
+        <span class="focus-input100" data-placeholder="Password"></span>
+    </div>
+
+    <div class="container-login100-form-btn">
+        <div class="wrap-login100-form-btn">
+            <div class="login100-form-bgbtn"></div>
+            <button class="login100-form-btn">
+                Giriş Yap
+            </button>
+        </div>
+    </div>
+
+    <div class="text-center p-t-30">
+        <span class="txt1">
+            Hesabın yok mu?
+        </span>
+
+        <a class="txt2" href="/Login/SignUp">
+            Kayıt Ol
+        </a>
+    </div>
+}

@@ -1,0 +1,72 @@
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.Business\bin\Debug\Proje.Business.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.Business\bin\Debug\Proje.Business.pdb
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.Business\bin\Debug\Proje.Common.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.Business\bin\Debug\Proje.Data.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.Business\bin\Debug\EntityFramework.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.Business\bin\Debug\Proje.Common.pdb
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.Business\bin\Debug\Proje.Common.dll.config
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.Business\bin\Debug\Proje.Data.pdb
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.Business\bin\Debug\EntityFramework.xml
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.Business\obj\Debug\Proje.Business.csprojAssemblyReference.cache
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.Business\obj\Debug\Proje.Business.csproj.CoreCompileInputs.cache
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.Business\obj\Debug\Proje.Business.csproj.CopyComplete
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.Business\obj\Debug\Proje.Business.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.Business\obj\Debug\Proje.Business.pdb
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.Business\bin\Debug\Proje.Business.dll.config
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.Business\bin\Debug\Proje.Data.dll.config
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.Business\bin\Debug\Proje.Business.dll.config
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.Business\bin\Debug\Proje.Business.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.Business\bin\Debug\Proje.Business.pdb
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.Business\bin\Debug\EntityFramework.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.Business\bin\Debug\Proje.Common.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.Business\bin\Debug\Proje.Data.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.Business\bin\Debug\Proje.Common.pdb
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.Business\bin\Debug\Proje.Common.dll.config
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.Business\bin\Debug\Proje.Data.pdb
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.Business\bin\Debug\Proje.Data.dll.config
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.Business\bin\Debug\EntityFramework.xml
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.Business\obj\Debug\Proje.Business.csprojAssemblyReference.cache
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.Business\obj\Debug\Proje.Business.csproj.CoreCompileInputs.cache
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.Business\obj\Debug\Proje.Business.csproj.CopyComplete
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.Business\obj\Debug\Proje.Business.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.Business\obj\Debug\Proje.Business.pdb
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.Business\bin\Debug\Proje.Business.dll.config
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.Business\bin\Debug\Proje.Business.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.Business\bin\Debug\Proje.Business.pdb
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.Business\bin\Debug\EntityFramework.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.Business\bin\Debug\Proje.Common.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.Business\bin\Debug\Proje.Data.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.Business\bin\Debug\Proje.Common.pdb
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.Business\bin\Debug\Proje.Common.dll.config
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.Business\bin\Debug\Proje.Data.pdb
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.Business\bin\Debug\Proje.Data.dll.config
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.Business\bin\Debug\EntityFramework.xml
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.Business\obj\Debug\Proje.Business.csprojAssemblyReference.cache
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.Business\obj\Debug\Proje.Business.csproj.CoreCompileInputs.cache
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.Business\obj\Debug\Proje.Business.csproj.CopyComplete
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.Business\obj\Debug\Proje.Business.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.Business\obj\Debug\Proje.Business.pdb
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.Business\bin\Debug\Proje.Business.dll.config
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.Business\bin\Debug\Proje.Business.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.Business\bin\Debug\Proje.Business.pdb
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.Business\bin\Debug\EntityFramework.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.Business\bin\Debug\Proje.Common.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.Business\bin\Debug\Proje.Data.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.Business\bin\Debug\Proje.Common.pdb
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.Business\bin\Debug\Proje.Common.dll.config
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.Business\bin\Debug\Proje.Data.pdb
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.Business\bin\Debug\Proje.Data.dll.config
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.Business\bin\Debug\EntityFramework.xml
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.Business\obj\Debug\Proje.Business.csprojAssemblyReference.cache
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.Business\obj\Debug\Proje.Business.csproj.CoreCompileInputs.cache
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.Business\obj\Debug\Proje.Business.csproj.CopyComplete
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.Business\obj\Debug\Proje.Business.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.Business\obj\Debug\Proje.Business.pdb

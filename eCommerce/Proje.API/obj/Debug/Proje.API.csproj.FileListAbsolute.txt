@@ -1,0 +1,405 @@
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\Proje.API.dll.config
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\Proje.API.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\Proje.API.pdb
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\csc.exe
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\csc.exe.config
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\csc.rsp
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\csi.exe
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\csi.exe.config
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\csi.rsp
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\System.AppContext.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\System.Console.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\System.IO.Compression.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\System.Security.Claims.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\System.ValueTuple.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\vbc.exe
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\vbc.exe.config
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\vbc.rsp
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\Antlr3.Runtime.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\Newtonsoft.Json.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\Proje.Business.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\Proje.Common.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Web.Helpers.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Web.Http.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Web.Mvc.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Web.Optimization.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Web.Razor.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Web.WebPages.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\WebGrease.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\EntityFramework.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\Proje.Business.pdb
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\Proje.Common.pdb
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\Proje.Common.dll.config
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\Newtonsoft.Json.xml
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Web.Helpers.xml
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Web.Http.xml
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Web.Mvc.xml
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Web.Optimization.xml
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Web.Razor.xml
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Web.WebPages.xml
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\Antlr3.Runtime.pdb
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\EntityFramework.xml
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\obj\Debug\Proje.API.csprojAssemblyReference.cache
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\obj\Debug\Proje.API.csproj.CoreCompileInputs.cache
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\obj\Debug\Proje.API.csproj.CopyComplete
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\obj\Debug\Proje.API.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\obj\Debug\Proje.API.pdb
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Web.Cors.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Web.Http.Cors.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\Proje.Business.dll.config
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\System.Web.Http.Cors.xml
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\EntityFramework.SqlServer.dll
+C:\Users\Soner Ardan Şişman\source\repos\e-Commerce\Proje.API\bin\EntityFramework.SqlServer.xml
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\Proje.API.dll.config
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\Proje.API.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\Proje.API.pdb
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\csc.exe
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\csc.exe.config
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\csc.rsp
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\csi.exe
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\csi.exe.config
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\csi.rsp
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\System.AppContext.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\System.Console.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\System.IO.Compression.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\System.Security.Claims.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\System.ValueTuple.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\vbc.exe
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\vbc.exe.config
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\vbc.rsp
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\Antlr3.Runtime.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\EntityFramework.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\EntityFramework.SqlServer.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\Newtonsoft.Json.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\Proje.Business.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\Proje.Common.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Net.Http.Formatting.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Web.Cors.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Web.Helpers.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Web.Http.Cors.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Web.Http.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Web.Http.WebHost.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Web.Mvc.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Web.Optimization.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Web.Razor.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Web.WebPages.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\WebGrease.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\Proje.Data.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\Proje.Business.pdb
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\Proje.Business.dll.config
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\Proje.Common.pdb
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\Proje.Common.dll.config
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\EntityFramework.xml
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\EntityFramework.SqlServer.xml
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Net.Http.Formatting.xml
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Web.Http.xml
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Web.Http.Cors.xml
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\Newtonsoft.Json.xml
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Web.Helpers.xml
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Web.Http.WebHost.xml
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Web.Mvc.xml
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Web.Optimization.xml
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Web.Razor.xml
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Web.WebPages.xml
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\Antlr3.Runtime.pdb
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\Proje.Data.pdb
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\bin\Proje.Data.dll.config
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\obj\Debug\Proje.API.csprojAssemblyReference.cache
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\obj\Debug\Proje.API.csproj.CoreCompileInputs.cache
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\obj\Debug\Proje.API.csproj.CopyComplete
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\obj\Debug\Proje.API.dll
+C:\Users\turgu\OneDrive\Masaüstü\eCommerce\Proje.API\obj\Debug\Proje.API.pdb
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\Proje.API.dll.config
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\Proje.API.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\Proje.API.pdb
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\csc.exe
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\csc.exe.config
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\csc.rsp
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\csi.exe
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\csi.exe.config
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\csi.rsp
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\System.AppContext.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Console.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\System.IO.Compression.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Security.Claims.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\System.ValueTuple.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\vbc.exe
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\vbc.exe.config
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\vbc.rsp
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\Antlr3.Runtime.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\EntityFramework.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\EntityFramework.SqlServer.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\Newtonsoft.Json.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\Proje.Business.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\Proje.Common.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Web.Cors.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Web.Helpers.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Web.Http.Cors.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Web.Http.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Web.Mvc.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Web.Optimization.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Web.Razor.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Web.WebPages.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\WebGrease.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\Proje.Data.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\Proje.Business.pdb
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\Proje.Business.dll.config
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\Proje.Common.pdb
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\Proje.Common.dll.config
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\EntityFramework.xml
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\EntityFramework.SqlServer.xml
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Web.Http.xml
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Web.Http.Cors.xml
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\Newtonsoft.Json.xml
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Web.Helpers.xml
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Web.Mvc.xml
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Web.Optimization.xml
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Web.Razor.xml
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Web.WebPages.xml
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\Antlr3.Runtime.pdb
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\Proje.Data.pdb
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\bin\Proje.Data.dll.config
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\obj\Debug\Proje.API.csprojAssemblyReference.cache
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\obj\Debug\Proje.API.csproj.CoreCompileInputs.cache
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\obj\Debug\Proje.API.csproj.CopyComplete
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\obj\Debug\Proje.API.dll
+C:\Users\Soner Ardan Şişman\Downloads\eCommerce\eCommerce\Proje.API\obj\Debug\Proje.API.pdb
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\Proje.API.dll.config
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\Proje.API.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\Proje.API.pdb
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\csc.exe
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\csc.exe.config
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\csc.rsp
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\csi.exe
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\csi.exe.config
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\csi.rsp
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\System.AppContext.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Console.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\System.IO.Compression.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Security.Claims.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\System.ValueTuple.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\vbc.exe
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\vbc.exe.config
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\vbc.rsp
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\Antlr3.Runtime.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\EntityFramework.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\EntityFramework.SqlServer.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\Newtonsoft.Json.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\Proje.Business.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\Proje.Common.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Web.Cors.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Web.Helpers.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Web.Http.Cors.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Web.Http.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Web.Mvc.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Web.Optimization.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Web.Razor.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Web.WebPages.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\WebGrease.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\Proje.Data.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\Proje.Business.pdb
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\Proje.Business.dll.config
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\Proje.Common.pdb
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\Proje.Common.dll.config
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\EntityFramework.xml
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\EntityFramework.SqlServer.xml
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Web.Http.xml
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Web.Http.Cors.xml
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\Newtonsoft.Json.xml
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Web.Helpers.xml
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Web.Mvc.xml
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Web.Optimization.xml
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Web.Razor.xml
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Web.WebPages.xml
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\Antlr3.Runtime.pdb
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\Proje.Data.pdb
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\bin\Proje.Data.dll.config
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\obj\Debug\Proje.API.csprojAssemblyReference.cache
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\obj\Debug\Proje.API.csproj.CoreCompileInputs.cache
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\obj\Debug\Proje.API.csproj.CopyComplete
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\obj\Debug\Proje.API.dll
+C:\Users\Soner Ardan Şişman\Desktop\eCommerce\eCommerce\Proje.API\obj\Debug\Proje.API.pdb

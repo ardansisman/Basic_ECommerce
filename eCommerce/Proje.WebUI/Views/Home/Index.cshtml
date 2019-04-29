@@ -1,0 +1,133 @@
+﻿@model Proje.WebUI.Models.HomePageViewModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- ##### New Arrivals Area Start ##### -->
+<section class="new_arrivals_area section-padding-80 clearfix" style="height:650px;background-position-y:-400px">
+    <div class="container" style="margin-top:-30px;">
+        <div class="row">
+            <div class="col-12">
+                <div class="section-heading text-center">
+                    <h2 style="color:#3786cc">Öne Çıkan Ürünler</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="popular-products-slides owl-carousel">
+                    @{ int count = 0;}
+                    @foreach (var item in Model.ProductList.Products)
+                    {
+                        count++;
+                        string imagePath = "/Image/" + item.Image;
+                        string hoverImage = "/Image/p" + item.ID + "_2.jpg";
+                        if (count == 5)
+                        {
+                            break;
+                        }
+                        <div class="single-product-wrapper" style=" border-radius:10px;">
+                            <!-- Product Image -->
+                            <div class="product-img">
+
+                                <img src="@imagePath" alt="">
+                                <a href="/Product/Detail/@item.ID">
+                                    <!-- Hover Thumb -->
+                                    <img class="hover-img" src="@hoverImage" alt="">
+                                </a>
+                                <!-- Favourite -->
+                                <div class="product-favourite">
+                                    <a href="#" class="favme fa fa-heart"></a>
+                                </div>
+                            </div>
+                            <!-- Product Description -->
+                            <div class="product-description">
+                                @*<span style="color:black">topshop</span>*@
+                                <h6>@item.Brand</h6>
+                                <a href="/Product/Detail/@item.ID">
+                                    <h5>@item.Name</h5>
+                                </a>
+                                <p class="product-price">@item.Price₺</p>
+
+                                <!-- Hover Content -->
+                                <div class="hover-content">
+                                    <!-- Add to Cart -->
+                                    <div class="add-to-cart-btn">
+                                        <a href="/Product/AddtoBasket/@item.ID" class="btn essence-btn">Sepete Ekle</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ##### New Arrivals Area End ##### -->
+
+<section class="shop_grid_area section-padding-80">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="section-heading text-center">
+                    <h2 style="color:#3786cc;">Son Eklenen Ürünler</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-12 col-lg-12">
+                <div class="shop_grid_product_area">
+                    <div class="row">
+                        @foreach (var item in Model.ProductList.Products)
+                        {
+                            string imagePath = "/Image/" + item.Image;
+                            string hoverImage = "/Image/p" + item.ID + "_2.jpg";
+                            <!-- Single Product -->
+                            <div class="col-12 col-sm-6 col-lg-2">
+                                <div class="single-product-wrapper">
+                                    <!-- Product Image -->
+                                    <div class="product-img">
+                                        <img src="@imagePath" alt="">
+                                        <!-- Hover Thumb -->
+                                        <a href="/Product/Detail/@item.ID">
+                                            <!-- Hover Thumb -->
+                                            <img class="hover-img" src="@hoverImage" alt="">
+                                        </a>
+
+                                        <!-- Product Badge -->
+                                        <div class="product-badge offer-badge">
+                                            <span>-30%</span>
+                                        </div>
+                                        <!-- Favourite -->
+                                        <div class="product-favourite">
+                                            <a href="#" class="favme fa fa-heart"></a>
+                                        </div>
+                                    </div>
+
+                                    <!-- Product Description -->
+                                    <div class="product-description">
+                                        <span>@item.Brand</span>
+                                        <a href="/Product/Detail/@item.ID">
+                                            <h6 style="font-size:13px;">@item.Name</h6>
+                                        </a>
+                                        <p class="product-price"><span class="old-price">@item.Price₺</span> @item.Price₺</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+                <!-- Pagination -->
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,54 @@
+﻿@model Proje.WebUI.Models.HomePageViewModel
+@{
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- ##### Single Product Details Area Start ##### -->
+<section class="single_product_details_area d-flex align-items-center">
+
+    <!-- Single Product Thumb -->
+    <div class="single_product_thumb clearfix">
+        <div class="product_thumbnail_slides owl-carousel">
+          
+            <img src="~/Image/@Model.ProductDetailResponse.Product.Image" style="width:1000px;height:972px"/>
+            @foreach (var item in Model.ProductDetailResponse.productImageGalleries)
+            {
+                <img src="~/Image/@item.Path" style="width:1000px;height:972px" />
+            }
+        </div>
+    </div>
+
+    <!-- Single Product Description -->
+    <div class="single_product_desc clearfix">
+        <span>@Model.ProductDetailResponse.Product.Brand</span>
+       
+            <h2>@Model.ProductDetailResponse.Product.Name</h2>
+        
+       
+        <p class="product-desc">@Model.ProductDetailResponse.Product.Description</p>
+
+        <!-- Form -->
+        <form class="cart-form clearfix" action="/Product/AddtoBasket/@Model.ProductDetailResponse.Product.ID">
+            <!-- Select Box -->
+            <div class="select-box d-flex mt-50 mb-30">
+             <input type="number" value="1"  class="mr-5" name="Quantity" style="font-size:large; text-align:center" min="1" max="5"/>
+                    <select name="Color" id="productColor" class="mr-5>
+                        <option value="Siyah">Renk: Siyah</option>
+                        <option value="Beyaz">Renk: Beyaz</option>
+                        <option value="Kırmızı">Renk: Kırmızı</option>
+                        <option value="Mor">Renk: Mor</option>
+                    </select>
+            </div>
+            <!-- Cart & Favourite Box -->
+            <div class="cart-fav-box d-flex align-items-center">
+                <!-- Cart -->
+
+                <button type="submit" name="addtocart" value="5" class="btn essence-btn">Sepete Ekle</button>
+                <!-- Favourite -->
+            </div>
+        </form>
+       
+    </div>
+</section>
+<!-- ##### Single Product Details Area End ##### -->

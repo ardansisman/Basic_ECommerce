@@ -1,0 +1,65 @@
+﻿
+@{
+    ViewBag.Title = "SignUp";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+@using (Html.BeginForm("SignUpComplete", "Login", FormMethod.Post, new { @class = "login100-form validate-form" }))
+{@Html.AntiForgeryToken()
+<span class="login100-form-title p-b-5">
+    Kayıt Ol
+</span>
+<span class="login100-form-title p-b-48" style="color:red;font-size:large">
+    @{ string Error = TempData["Error"] as string;} @Error
+</span>
+<div class="wrap-input100 validate-input" data-validate="Adınızı giriniz">
+    <input class="input100" type="text" name="name" required>
+    <span class="focus-input100" data-placeholder="Ad Soyad"></span>
+</div>
+
+<div class="wrap-input100 validate-input" data-validate="Geçerli email: a@b.c">
+    <input class="input100" type="text" name="email" required>
+    <span class="focus-input100" data-placeholder="Email"></span>
+</div>
+<div class="wrap-input100 validate-input" data-validate="Adres giriniz">
+    <input class="input100" type="text" name="address" required>
+    <span class="focus-input100" data-placeholder="Adres"></span>
+</div>
+<div class="wrap-input100 validate-input" data-validate="Telefon giriniz">
+    <input class="input100" type="text" name="phone" required>
+    <span class="focus-input100" data-placeholder="Telefon"></span>
+</div>
+
+<div class="wrap-input100 validate-input" data-validate="Şifrenizi Giriniz">
+    <span class="btn-show-pass">
+        <i class="zmdi zmdi-eye"></i>
+    </span>
+    <input class="input100" type="password" name="password" required>
+    <span class="focus-input100" data-placeholder="Şifre"></span>
+</div>
+<div class="wrap-input100 validate-input" data-validate="Şifrenizi Tekrar Giriniz">
+    <span class="btn-show-pass">
+        <i class="zmdi zmdi-eye"></i>
+    </span>
+    <input class="input100" type="password" name="password2" required>
+    <span class="focus-input100" data-placeholder="Şifre"></span>
+</div>
+<div class="container-login100-form-btn">
+    <div class="wrap-login100-form-btn">
+        <div class="login100-form-bgbtn"></div>
+        <button class="login100-form-btn">
+            Kayıt ol
+        </button>
+    </div>
+</div>
+
+<div class="text-center p-t-30">
+    <span class="txt1">
+        Hesabın var mı?
+    </span>
+
+    <a class="txt2" href="">
+        Giriş yap
+    </a>
+</div>
+}
